@@ -24,6 +24,8 @@ The most important differences between Steps 3 and 4 are listed below. You can s
 
 __`app/index.html`:__
 <pre>
+
+// --- 17 lines omitted --- //
   Search: <input ng-model="query">
   Sort by:
   <select ng-model="orderProp">
